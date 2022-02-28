@@ -1,0 +1,84 @@
+.header{
+  color:rgb(255, 8, 0);
+  position:relative;
+  transform:translate(-0%,-1600%);
+  font-size: 50px;
+}
+.bg{
+  /*margin-right: 50%;*/
+  width:100%;
+  height:0.01%;
+  position:relative;
+  mix-blend-mode:saturation;
+  opacity:70%;
+}
+.information{
+  transform:translate(-0%,-1200%);
+  font-size:30px;
+  color:rgb(255, 0, 0);
+}.information2{
+  transform:translate(-0%,-1200%);
+  font-size:30px;
+  color:rgb(255, 0, 0);
+}
+.navbar{
+  transform:translate(-0%,-1250%);
+}
+.navbar a{
+  width:19.2%;
+  height: 75px;
+}
+.navbar button{
+  background-color:bisque;
+  opacity:60%;
+}
+.weather{
+  width:19.2%;
+  height: 75px;
+}
+.plantsanimals{
+  width:19.2%;
+  height:75px;
+}
+.geography{
+  width:19.2%;
+  height:75px;
+}
+.biodiversity{
+  width:19.2%;
+  height:75px;
+}
+.infobutton{
+  width:19.2%;
+  height:75px;
+}
+.para{
+  transform:translate(-0%,-300%);
+  font-size:30px;
+  color:rgb(0, 0, 0);
+}
+.para2{
+  transform:translate(-0%,-250%);
+  font-size:30px;
+  color:rgb(0, 0, 0);
+}
+.para3{
+  transform:translate(-0%,-300%);
+  font-size:30px;
+  color:rgb(0, 0, 0);
+}
+
+
+.orderbutton {
+	background-color: ash-grey;
+	
+	width: 12.2%;
+	height: 75px;
+	
+	position: relative;
+	
+}
+.para4{
+  transform:translate(-0%,-250%);
+  font-size: 20px;
+}
